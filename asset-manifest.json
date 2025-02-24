@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/event-calendar-ticket-app/static/css/main.7daf3614.css",
+    "main.js": "/event-calendar-ticket-app/static/js/main.2f4c3351.js",
+    "static/js/453.7c1f133f.chunk.js": "/event-calendar-ticket-app/static/js/453.7c1f133f.chunk.js",
+    "index.html": "/event-calendar-ticket-app/index.html",
+    "main.7daf3614.css.map": "/event-calendar-ticket-app/static/css/main.7daf3614.css.map",
+    "main.2f4c3351.js.map": "/event-calendar-ticket-app/static/js/main.2f4c3351.js.map",
+    "453.7c1f133f.chunk.js.map": "/event-calendar-ticket-app/static/js/453.7c1f133f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7daf3614.css",
+    "static/js/main.2f4c3351.js"
+  ]
+}
