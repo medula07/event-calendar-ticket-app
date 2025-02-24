@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.rbc-calendar {
+  margin: 20px auto;
+  max-width: 1000px;
+}
+
+.rbc-toolbar button {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.rbc-toolbar button:hover {
+  background-color: #0056b3;
+  border-color: #004085;
+}
+
+.rbc-event {
+  background-color: #007bff;
+}
+
+.rbc-event:hover {
+  background-color: #0056b3;
+}
